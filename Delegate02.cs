@@ -35,3 +35,7 @@ List<int> resultsToFill = new List<int>();
 // the Add method anyway!
 // Only pass the Add method itself:
 NewAdd(resultsToFill.Add);
+
+
+//More examples
+//https://docs.microsoft.com/en-us/archive/blogs/kirillosenkov/using-delegates-a-simple-sample
